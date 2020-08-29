@@ -12,6 +12,7 @@ def pick_an_ep(selection=None):
     'ent': [26, 26, 24, 22],
     'dis': [15, 14],
     'pic': [10]
+    'lds': [3]
   }
   
   if selection in series.keys():
